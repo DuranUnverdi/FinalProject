@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NxtLxBGbjrkxZI+zm7nowa8JIzMqc2G+ry6pvdWPDbYh6pS+wUbyhB8NT2tj6JWDxDepOX/4yyzl3Yt6XzNeJw==",
+  "dgSpecHash": "7O8d2CvNfPGs/+oDM+HLxI1nig5I7PuthrNHoSfICRUdYpNYAYTQk33O0HhizXONeZzaG1RF0Z1l2NA3GzH6cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Duran\\Desktop\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "D:\\masaüstü\\.netcore\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duran\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

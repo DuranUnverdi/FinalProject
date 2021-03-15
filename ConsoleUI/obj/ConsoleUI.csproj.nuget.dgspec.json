@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Duran\\Desktop\\FinalProject\\ConsoleUI\\ConsoleUI.csproj": {}
+    "D:\\masaüstü\\.netcore\\FinalProject\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Duran\\Desktop\\FinalProject\\Business\\Business.csproj": {
+    "D:\\masaüstü\\.netcore\\FinalProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duran\\Desktop\\FinalProject\\Business\\Business.csproj",
+        "projectUniqueName": "D:\\masaüstü\\.netcore\\FinalProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Business\\Business.csproj",
+        "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Business\\obj\\",
+        "outputPath": "D:\\masaüstü\\.netcore\\FinalProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Duran\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj"
+              "D:\\masaüstü\\.netcore\\FinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\Entities.csproj"
+              "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\Duran\\Desktop\\FinalProject\\ConsoleUI\\ConsoleUI.csproj": {
+    "D:\\masaüstü\\.netcore\\FinalProject\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duran\\Desktop\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "D:\\masaüstü\\.netcore\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\ConsoleUI\\obj\\",
+        "outputPath": "D:\\masaüstü\\.netcore\\FinalProject\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -98,14 +98,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Duran\\Desktop\\FinalProject\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Business\\Business.csproj"
+              "D:\\masaüstü\\.netcore\\FinalProject\\Business\\Business.csproj": {
+                "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\Business\\Business.csproj"
               },
-              "C:\\Users\\Duran\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj"
+              "D:\\masaüstü\\.netcore\\FinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\Entities.csproj"
+              "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\Duran\\Desktop\\FinalProject\\Core\\Core.csproj": {
+    "D:\\masaüstü\\.netcore\\FinalProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duran\\Desktop\\FinalProject\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\masaüstü\\.netcore\\FinalProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Core\\Core.csproj",
+        "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Core\\obj\\",
+        "outputPath": "D:\\masaüstü\\.netcore\\FinalProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -202,14 +202,14 @@
         }
       }
     },
-    "C:\\Users\\Duran\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj": {
+    "D:\\masaüstü\\.netcore\\FinalProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duran\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\masaüstü\\.netcore\\FinalProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\DataAccess\\obj\\",
+        "outputPath": "D:\\masaüstü\\.netcore\\FinalProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -229,11 +229,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Duran\\Desktop\\FinalProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Core\\Core.csproj"
+              "D:\\masaüstü\\.netcore\\FinalProject\\Core\\Core.csproj": {
+                "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\Entities.csproj"
+              "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -273,14 +273,14 @@
         }
       }
     },
-    "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\Entities.csproj": {
+    "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\Entities.csproj",
+        "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\obj\\",
+        "outputPath": "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -300,8 +300,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Duran\\Desktop\\FinalProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Core\\Core.csproj"
+              "D:\\masaüstü\\.netcore\\FinalProject\\Core\\Core.csproj": {
+                "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\Core\\Core.csproj"
               }
             }
           }

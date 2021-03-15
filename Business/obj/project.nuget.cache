@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b+Ug6TJUgvOfETSPLxpbkSug69p1WKf44m9q1Nf/8ST8I694oRrQ6V9HrnqLdvWR4omyJ9pgOiAER3oI1IuZiQ==",
+  "dgSpecHash": "Tp3Y6tlImBevbqxTesdAmdM82D28QlGtJEHdxWQMFIVaqcb2ADdqsS1oLrYWv+2FSkMTbqSqF9WDhYXY9KxVqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Business\\Business.csproj",
+  "projectFilePath": "D:\\masaüstü\\.netcore\\FinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duran\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

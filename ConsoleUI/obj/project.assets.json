@@ -5684,11 +5684,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duran\\Desktop\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "D:\\masaüstü\\.netcore\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Duran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "D:\\masaüstü\\.netcore\\FinalProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5708,14 +5708,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Duran\\Desktop\\FinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Business\\Business.csproj"
+            "D:\\masaüstü\\.netcore\\FinalProject\\Business\\Business.csproj": {
+              "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\Duran\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\DataAccess\\DataAccess.csproj"
+            "D:\\masaüstü\\.netcore\\FinalProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Duran\\Desktop\\FinalProject\\Entities\\Entities.csproj"
+            "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\masaüstü\\.netcore\\FinalProject\\Entities\\Entities.csproj"
             }
           }
         }
