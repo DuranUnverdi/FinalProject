@@ -122,3 +122,7 @@ D:\masaüstü\.netcore\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.
 D:\masaüstü\.netcore\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 D:\masaüstü\.netcore\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
 D:\masaüstü\.netcore\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+D:\masaüstü\.netcore\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\masaüstü\.netcore\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\masaüstü\.netcore\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\masaüstü\.netcore\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
