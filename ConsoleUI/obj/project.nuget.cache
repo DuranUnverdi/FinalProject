@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wat+xWksIVlFcxn26nLzpw4rGzty544l20GR7rkWcsdrWtrtHQne7vhWBTXMCk1OhABg8mooRjXb0WO/hiRbMA==",
+  "dgSpecHash": "fV+bOLxuA0AyAtjzAwjDOQOCYQ+ozqbgQNHOQdIpjXkVH7Y2xCEa2o5KhzgDEQy4it+7PC+2ZSz3aGycbmKHxA==",
   "success": true,
   "projectFilePath": "D:\\masaüstü\\.netcore\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duran\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\Duran\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Duran\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
